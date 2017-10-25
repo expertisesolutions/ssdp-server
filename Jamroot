@@ -1,0 +1,5 @@
+
+project ssdp ;
+
+alias ssdp : : : : <include>include ;
+
